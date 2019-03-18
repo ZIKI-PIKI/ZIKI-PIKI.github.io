@@ -1,2 +1,2 @@
-# ZIKI-PIKI.github.io
-My first site
+# ZIKI-PIKI.github.io 
+Individual

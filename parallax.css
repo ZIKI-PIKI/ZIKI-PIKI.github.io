@@ -1,15 +1,4 @@
 
-.pimg1{
-	position: relative;
-	opacity: 1;
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	margin-bottom: 800px;
-	background-image: url(fashion-2762865_1920.jpg) ;
-	min-height: 100vh;
-
 }
 .logo{
 	background: blue;

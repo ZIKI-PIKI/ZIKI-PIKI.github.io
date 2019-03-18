@@ -1,0 +1,43 @@
+
+.pimg1{
+	position: relative;
+	opacity: 1;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin-bottom: 800px;
+	background-image: url(fashion-2762865_1920.jpg) ;
+	min-height: 100vh;
+
+}
+.logo{
+	background: blue;
+	
+}
+nav{
+	width: 15vw;
+	height: 100vh;
+	background-color:#fff;
+	overflow:hidden;
+}
+.picture-navigation{
+	width: 85vw;
+	height: 100vh;
+		/*background-image:url(attractive-beautiful-beauty-1785174.jpg) ;
+	background-repeat: no-repeat;
+	background-size: contain;*/
+background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(attractive-beautiful-beauty-1785174.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	
+}
+
+.content{
+	display: flex;
+}
+.w{
+
+}
